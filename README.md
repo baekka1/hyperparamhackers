@@ -24,3 +24,10 @@ Next Steps
 	Our next steps are to train on the other datasets and implement a way of choosing which animal we want the model to generate. In addition, we are going to add image augmentation to both the generator and discriminator in hopes of improving model performance. As shown in the paper “Image Augmentations for GAN Training”, spatial augmentations outperforms image augmentations so we are going to try doing spatial augmentations first. In addition, the paper made the augmentations to a vanilla GAN for unconditional image generation (SNDCGAN as proposed in this paper) while we will be adding the augmentations to the DC-GAN. Another thing we are going to do is try a different loss function. The loss function we are currently using is binary cross entropy and our alternative loss function uses the Wasserstein distance. This loss function uses weight clipping [add more details later…]. Our hope that this loss function will reduce the chance of mode collapse, where the model produces repetitive or limited outputs. 
 
 **Runnable Scripts and Commands:**
+
+**Contributions:**
+
+**Ike Pawsat:**
+**Katie Baek:**
+**Kayla Imbriale:** 
+**Riley Byrnes:**
