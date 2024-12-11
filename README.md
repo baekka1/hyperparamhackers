@@ -12,4 +12,4 @@ Creating a GAN model from scratch that can generate images of dogs, cats, horses
 ### Kayla Imbriale:
 - [...]
 ### Riley Byrnes:
-- [...]
+- Original GAN model work before final improvements, one-hot vector encoding trial / attempt
