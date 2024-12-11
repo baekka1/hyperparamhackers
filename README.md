@@ -6,7 +6,7 @@ Creating a GAN model from scratch that can generate images of dogs, cats, horses
 ## Contributions:
 
 ### Ike Pawsat:
-- [...]
+- Responsible for: data collection, data preprocessing, hyperparameter search, model training and evaluation, paper write up, and CIFAR-10 results with data upsizing.
 ### Katie Baek:
 - Added the data pipeline, infrastructure to easily save working models and images, FID and KID metrics, Wasserstein loss function, W-GAN with gradient penalty
 ### Kayla Imbriale:
