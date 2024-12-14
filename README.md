@@ -12,7 +12,7 @@ To retrain the models, under the directory "model", edit/run `GAN_model.ipynb` i
 - Added CIFAR-10 results with data upsizing in `GAN_model.ipynb`
 - hyperparameter search, model training and evaluation
 ### Katie Baek:
-- Added a data pipeline to easily download the data off a google drive link, preprocess, and put into the Dataloader, model infrastructure to easily save working models and images to the Google Drive under unique names to assist with testing, calculation FID and KID metrics, and latent space visualization in `GAN_model.ipynb`
+- Added a data pipeline to easily download and process the data off a google drive link, model infrastructure to easily save working models and images to the Google Drive under unique names to assist with testing, calculation of FID and KID metrics, and latent space visualization in `GAN_model.ipynb`
 - Coded `W_GAN_model_FAILED.ipynb`, `W_GAN_with_GP.ipynb`, and `evaluate_model.ipynb`
 ### Kayla Imbriale:
 - Model architecture of generator and discriminator, training loop in `GAN_model.ipynb`
