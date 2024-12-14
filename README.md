@@ -2,8 +2,9 @@
 Creating a GAN model from scratch that can generate images of dogs, cats, horses, elephants, and lions. Best working model is with the Wasserstein loss function with gradient penalty. 
 
 ## Runnable Scripts and Commands:
-### To evaluate the trained models for all datasets, under the directory "model", run the 'evalute_model.ipynb' in Google Colab 
-### To retrain the models, under the directory "model", edit/run the 'GAN_model.ipynb' in Google Colab
+To evaluate the trained models for all datasets, under the directory "model", run the 'evalute_model.ipynb' in Google Colab
+
+To retrain the models, under the directory "model", edit/run the 'GAN_model.ipynb' in Google Colab
 
 ## Contributions:
 
